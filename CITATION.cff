@@ -1,0 +1,39 @@
+cff-version: "1.2.0"
+authors:
+- family-names: McLean
+  given-names: Evelyn
+- family-names: Abdo
+  given-names: Jane
+- family-names: Blostein
+  given-names: Nadia
+  orcid: "https://orcid.org/0000-0002-1864-1899"
+- family-names: Stikov
+  given-names: Nikola
+  orcid: "https://orcid.org/0000-0002-8480-5230"
+doi: 10.55458
+message: To reference this work, please cite our reproducible preprint
+  in NeuroLibre.
+preferred-citation:
+  authors:
+  - family-names: McLean
+    given-names: Evelyn
+  - family-names: Abdo
+    given-names: Jane
+  - family-names: Blostein
+    given-names: Nadia
+    orcid: "https://orcid.org/0000-0002-1864-1899"
+  - family-names: Stikov
+    given-names: Nikola
+    orcid: "https://orcid.org/0000-0002-8480-5230"
+  date-published: 2024-12-15
+  doi: 10.55458/neurolibre.00031
+  journal: NeuroLibre Reproducible Preprints
+  publisher:
+    name: NeuroLibre
+  start: 31
+  title: "Little Science, Big Science, and Beyond: How Amateurs Shape
+    the Scientific Landscape"
+  type: preprint
+  url: "https://neurolibre.org/papers/10.55458/neurolibre.00031"
+title: "Little Science, Big Science, and Beyond: How Amateurs Shape the
+  Scientific Landscape"
