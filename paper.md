@@ -177,6 +177,6 @@ The dataset in \autoref{figstat} was obtained by web scraping the WIPO PatentSco
 
 Below is a more detailed breakdown of the decision tree used for classifying patents into `Solo Inventor`, `Research/Company`, or `Other`:  
 
-![Decision tree for classifying patents. \label{figstat}](static/appendix.png)
+![Decision tree for classifying patents.](static/appendix.png)
 
 # References
